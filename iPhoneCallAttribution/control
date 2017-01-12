@@ -1,0 +1,9 @@
+Package: com.rb.lookup
+Name: AutoLookup
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Zeigt Namen für deutsche Telefonnummern an
+Maintainer: Robert Bastian
+Author: Robert Bastian
+Section: Tweaks
